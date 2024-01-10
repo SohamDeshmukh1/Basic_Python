@@ -34,9 +34,9 @@ print(d) #uncomment the code lines to see if it works
 # Logicial Operators(Partialy learned as Different forusing conditions)
 '''In python logicial Operators does not have Symbols like &&,||,!
 they directly uses and,or,not as its an high level language'''
-b = False#Logicial Operators works on boolyent maths 
+b = False #Logicial Operators works on boolyent maths 
 a = True # Or we can say on true and false
 print("The value of a and b is equal =",(a and b))
 print("The value of a and b is different =",(a or b))
-print("The value of b is ", (not a))
-print("The value of a is ", (not b))
+print("The value of b is ", (not b))
+print("The value of a is ", (not a))
