@@ -1,0 +1,15 @@
+in pyhton there are 5 types of variable
+integer - we know integers
+float - we know floats too
+char/strings- we know char/strings too
+
+new types
+1] boolyeans - they are the keywords which are true or false
+Not much information about booleans still
+
+2] none - a keyword which might be used in future
+does keep an variable,float,character etc empty
+not much information about none too 
+
+GamerzWorld out
+
